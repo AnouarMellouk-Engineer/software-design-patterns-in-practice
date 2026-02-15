@@ -62,7 +62,7 @@ Each pattern includes:
 
 ## 🚀 Technologies Used
 
-- (Your language here: Java / TypeScript / Node.js / etc.)
+- language :TypeScript
 - UML Diagrams
 - Clean Architecture principles
 
